@@ -1,2 +1,3 @@
 # TIL
-What I Learned Today
+병아리 개발자의 성장 일기 🐤
+멋진 닭이 되는 그날까지... 🐔
